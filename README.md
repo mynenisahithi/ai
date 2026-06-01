@@ -49,3 +49,5 @@ To help students and job seekers practice realistic interviews and improve their
 ---
 
 ⭐ If you like this project, give it a star!
+
+https://ai-interview-coach-64.lovable.app
